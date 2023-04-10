@@ -1,0 +1,8 @@
+C:\Users\MSI\Desktop\Visual 工程\Tour Operator\Tour Operator\obj\Debug\Tour Operator.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Visual 工程\Tour Operator\Tour Operator\obj\Debug\Tour Operator.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\Desktop\Visual 工程\Tour Operator\Tour Operator\obj\Debug\Tour Operator.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Visual 工程\Tour Operator\Tour Operator\bin\Debug\Tour Operator.exe.config
+C:\Users\MSI\Desktop\Visual 工程\Tour Operator\Tour Operator\bin\Debug\Tour Operator.exe
+C:\Users\MSI\Desktop\Visual 工程\Tour Operator\Tour Operator\bin\Debug\Tour Operator.pdb
+C:\Users\MSI\Desktop\Visual 工程\Tour Operator\Tour Operator\obj\Debug\Tour Operator.exe
+C:\Users\MSI\Desktop\Visual 工程\Tour Operator\Tour Operator\obj\Debug\Tour Operator.pdb
