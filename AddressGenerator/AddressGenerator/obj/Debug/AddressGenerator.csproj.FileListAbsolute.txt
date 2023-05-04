@@ -1,0 +1,8 @@
+C:\Users\MSI\Desktop\Visual 工程\AddressGenerator\AddressGenerator\bin\Debug\AddressGenerator.exe.config
+C:\Users\MSI\Desktop\Visual 工程\AddressGenerator\AddressGenerator\bin\Debug\AddressGenerator.exe
+C:\Users\MSI\Desktop\Visual 工程\AddressGenerator\AddressGenerator\bin\Debug\AddressGenerator.pdb
+C:\Users\MSI\Desktop\Visual 工程\AddressGenerator\AddressGenerator\obj\Debug\AddressGenerator.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Visual 工程\AddressGenerator\AddressGenerator\obj\Debug\AddressGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\Desktop\Visual 工程\AddressGenerator\AddressGenerator\obj\Debug\AddressGenerator.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Visual 工程\AddressGenerator\AddressGenerator\obj\Debug\AddressGenerator.exe
+C:\Users\MSI\Desktop\Visual 工程\AddressGenerator\AddressGenerator\obj\Debug\AddressGenerator.pdb
